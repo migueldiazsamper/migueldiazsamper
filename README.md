@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://migueldiazsamper.wixsite.com/portfolio](https://migueldiazsamper.wixsite.com/portfolio)
 
-- 📫 How to reach me **bitemdev@gmail.com**
+- 📫 How to reach me **bitemgamedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
