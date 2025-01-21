@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Díaz</h1>
 <h3 align="center">A Video Game Design and Development degree student.</h3>
 
-<p align="left"> <a href="https://twitter.com/bitemdev" target="blank"><img src="https://img.shields.io/twitter/follow/bitemdev?logo=twitter&style=for-the-badge" alt="bitemdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bitemgamedev" target="blank"><img src="https://img.shields.io/twitter/follow/bitemgamedev?logo=twitter&style=for-the-badge" alt="bitemgamedev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://migueldiazsamper.wixsite.com/portfolio](https://migueldiazsamper.wixsite.com/portfolio)
 
